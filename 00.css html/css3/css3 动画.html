@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>fe 21 css3 animation</title>
+        <style>
+            .block {
+                background: lightblue;
+                width: 100px;
+                height: 100px;
+            }
+            .spin {
+                animation: spin linear 2s;
+                animation-iteration-count: 1;
+            }
+
+            @keyframes spin {
+                0% {
+                    transform: rotate(0deg);
+                }
+                100% {
+                    transform: rotate(180deg) translate(0, 50px);
+                }
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="block">
+            方块
+        </div>
+
+        <button class="play">播放动画</button>
+
+        <script>
+            var e = function(sel) {
+                return document.querySelector(sel)
+            }
+
+            var playAnimation = function() {
+                var animation = 'spin'
+                var block = e('.block')
+                // 让它开始播放动画
+                block.classList.add(animation)
+                // 绑定一个 animationend 事件, 在动画结束后删除动画 class
+                block.addEventListener('animationend', function(){
+                    block.classList.remove(animation)
+                })
+            }
+
+            var __main = function() {
+                e('.play').addEventListener('click', function(e) {
+                    playAnimation()
+                })
+            }
+
+            __main()
+        </script>
+    </body>
+</html>

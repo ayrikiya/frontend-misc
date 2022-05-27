@@ -1,0 +1,26 @@
+h1 {
+    /*color: green;*/
+    display: inline-block;
+}
+
+h2 {
+    margin: 10px;
+    border-width: 20px;
+    padding: 30px;
+    width: 100px;
+    height: 50px;
+    /* 边框属性设置 3 个 */
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    /* border 是上面 3 个的简写, 顺序不重要*/
+    border: 3px red solid;
+}
+
+body {
+    /*background: lightgray url(doge.jpg);*/
+}
+
+.margin-test {
+    margin: 20px 0;
+}

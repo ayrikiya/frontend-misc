@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>fe 12</title>
+        <script src=gua.js></script>
+        <style>
+            .gua-hide {
+                display: none;
+            }
+            .gua-menu-content {
+                height: 100px;
+                border: 1px solid red;
+            }
+            .gua-item {
+                /*display: inline-block;*/
+                /*opacity: 0.6;*/
+                filter: grayscale(100%)
+            }
+            .gua-item.gua-highlight {
+                filter: initial;
+                /*opacity: 1;*/
+            }
+            .gua-item.gua-highlight img {
+                width: 150px;
+                height: 150px;
+            }
+            img {
+                /* transition 这个 css 指定了某个属性发生变化的时候自动使用动画效果和动画时间 */
+                transition: width 1s, height 1s;
+            }
+            .gua-item img {
+                width: 100px;
+                height: 100px
+            }
+
+            /* 3， 轮播图*/
+            .gua-slide {
+                position: relative;
+            }
+            .gua-slide-image {
+                display: none;
+            }
+            /*.gua-slide-image*/
+            .gua-active {
+                display: inline-block;;
+            }
+            .gua-slide-button {
+                right: 0;
+                height: 50px;
+                /* position: absolute;     相对于父节点的absolute 必须设置父节点.gua-slide为position: relative; 都是非static元素
+                   right: 0;
+                   top: 50%;
+                   transform: translateY(-50%);
+                    */
+            }
+            .gua-vertical-center {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+            .gua-slide-indicators {
+                position: absolute;
+                bottom: 10px;
+            }
+            .gua-slide-indi {
+                display: inline-block;
+                width: 10px;
+                height: 10px;
+                border-radius: 50%;
+                background: red;
+            }
+            .gua-white {
+                background: white;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- 1, 点击显示的菜单 -->
+        <div class="gua-1 gua-hide">
+            <div class="gua-menu">
+                <button class="gua-menu-toggle">点击展开详情</button>
+                <div class="gua-menu-content">
+                    详情
+                </div>
+            </div>
+            <div class="gua-menu">
+                <button class="gua-menu-toggle">点击展开详情</button>
+                <div class="gua-menu-content">
+                    详情
+                </div>
+            </div>
+        </div>
+        <!-- 2, 鼠标划过高亮的菜单选择效果 -->
+        <div class="gua-2 gua-hide">
+            <div class="gua-list">
+                <div class="gua-item">
+                    <img src="1.jpg" alt="">
+                </div>
+                <div class="gua-item">
+                    <img src="2.jpg" alt="">
+                </div>
+                <div class="gua-item">
+                    <img src="3.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- 3, 轮播图 -->
+        <div class="gua-3">
+            <!-- data-imgs 是图片的总数 -->
+            <!-- data-active 是当前显示的图片的下标 -->
+            <div class="gua-slide" data-imgs=3 data-active=0>
+                <img id=id-guaimage-0 class="gua-slide-image gua-active" src="slideimages/1.jpg" alt="">
+                <img id=id-guaimage-1 class=gua-slide-image src="slideimages/2.jpg" alt="">
+                <img id=id-guaimage-2 class=gua-slide-image src="slideimages/3.jpg" alt="">
+                <button class="gua-slide-button gua-vertical-center">下一张</button>
+                <div class="gua-slide-indicators">
+                    <div class="gua-slide-indi gua-white"></div>
+                    <div class="gua-slide-indi"></div>
+                    <div class="gua-slide-indi"></div>
+                </div>
+            </div>
+        </div>
+        <!-- <script src=1.js></script> -->
+        <!-- <script src=2.js></script> -->
+        <script src=3.js></script>
+    </body>
+</html>

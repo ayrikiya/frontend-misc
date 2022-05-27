@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+    body{
+        margin: 0; 
+        padding: 0; 
+        color: #fff; 
+    }
+    .container{
+        width: 90%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+    .container::after{
+        content: "";
+        display: block;
+        clear: both;
+    }
+    .left{
+        width: 60%;
+        height: 1000px;
+        background: black;
+        float: left;
+    }
+    .right{
+        width: 40%;
+        height: 1000px;
+        background: burlywood;
+        float: right;
+    }
+    </style>
+        
+</head>
+<body>
+    <div class="container">
+        <div class="left">页面左侧</div>
+        <div class="right">页面右侧</div>
+    </div>
+</body>
+</html>

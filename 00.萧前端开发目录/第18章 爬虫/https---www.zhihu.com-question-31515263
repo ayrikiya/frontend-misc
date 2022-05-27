@@ -1,0 +1,1958 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="0018adaaa21df9a8">
+<meta http-equiv="X-ZA-Experiment" content="default:None">
+
+<title>
+
+对于中国来说，没有宗教信仰意味着什么？ - 知乎
+
+</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://questions/31515263">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=https://www.zhihu.com/question/31515263">
+<meta id="znonce" name="znonce" content="cc394d2bba2c485abff8de1842523626">
+
+
+
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="https://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="https://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="https://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="https://static.zhihu.com/static/revved/-/css/z.96020364.css">
+
+
+
+
+
+<!--[if lt IE 9]>
+<script src="https://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="https://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="https://static.zhihu.com/static/revved/-/js/instant.14757a4a.js"></script>
+
+
+
+
+</head>
+
+<body class="zhi ">
+
+
+
+
+<div role="navigation" class="zu-top" data-za-module="TopNavBar">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+<div class="top-nav-profile">
+<a href="/people/xiao-jing-mo" class="zu-top-nav-userinfo ">
+<span class="name">萧井陌</span>
+<img class="Avatar" src="https://pic2.zhimg.com/33dcd7dd3e63f62f8575b5e5f77e1201_s.png" srcset="https://pic2.zhimg.com/33dcd7dd3e63f62f8575b5e5f77e1201_xs.png 2x" alt="萧井陌" />
+<span id="zh-top-nav-new-pm" class="zg-noti-number zu-top-nav-pm-count"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+<ul class="top-nav-dropdown" id="top-nav-profile-dropdown">
+<li>
+<a href="/people/xiao-jing-mo">
+<i class="zg-icon zg-icon-dd-home"></i>我的主页
+</a>
+</li>
+
+<li>
+<a href="/inbox">
+<i class="zg-icon zg-icon-dd-pm"></i>私信
+<span id="zh-top-nav-pm-count" class="zu-top-nav-pm-count zg-noti-number"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+</li>
+<li>
+<a href="/settings">
+<i class="zg-icon zg-icon-dd-settings"></i>设置
+</a>
+</li>
+<li>
+<a href="/logout">
+<i class="zg-icon zg-icon-dd-logout"></i>退出
+</a>
+</li>
+</ul>
+
+</div>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" maxlength="100" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+<li class="top-nav-noti zu-top-nav-li ">
+<a class="zu-top-nav-link" href="javascript:;" id="zh-top-nav-count-wrap" role="button"><span class="mobi-arrow"></span>消息</a>
+</li>
+
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content message">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content user" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content thanks" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-redirect-info" style="display:none"></div>
+
+
+<div class="zu-global-notify zu-global-notify-info" id="zh-question-notification-summary" style="display:none;">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<span class="zu-global-notify-icon"></span>
+<ul class="zu-question-notify-wrap">
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="zg-wrap zu-main clearfix with-indention-votebar" itemscope itemtype="http://schema.org/Question" id="zh-single-question-page" data-urltoken="31515263" role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+<meta itemprop="isTopQuestion" content="false" />
+<meta itemprop="visitsCount" content="974129" />
+
+
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551075"
+data-hovercard="t$b$19551075" data-token="19551075" data-topicid="284" data-za-element-name="Title">
+中国历史
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19570783"
+data-hovercard="t$b$19570783" data-token="19570783" data-topicid="6860" data-za-element-name="Title">
+宗教
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19643956"
+data-hovercard="t$b$19643956" data-token="19643956" data-topicid="31304" data-za-element-name="Title">
+无神论
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19680182"
+data-hovercard="t$b$19680182" data-token="19680182" data-topicid="43418" data-za-element-name="Title">
+有神论
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="true">
+<h2 class="zm-item-title">
+
+<span class="zm-editable-content">对于中国来说，没有宗教信仰意味着什么？</span>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="4805386" data-action="/question/detail">
+
+<div class="zm-editable-content"><p>其实对于宗教一直很想深入了解（这是一个漫长的过程qwq）<br></p><p>上专业课（我是中文系）的时候老师说过：“无神论的国家很可怕，所有人都缺少一种信仰。因为我们在这样一个制度的国家，也许政治代替了信仰。如果一个人是无神论者，他最杯具的地方是没有一种天然的敬畏感，不了解到有很多事情，需要让其保有一种庄严，不能去亵渎它。由此，也许现在中国有很多的问题，所有人都把过去的历史戏剧化，娱乐化，低俗化，这对于一个民族来说是很可悲的，因为一个民族总有些东西是不能亵渎的。”老师（我很喜欢的老师！）说得可能个人化，对于这个问题的解释也是碎片化的。</p><p>我很想知道较全面的，较系统的解释。这个问题还可以转换为：宗教对于国家和民族整体的意义【这样可以么？】</p><p>6.28浏览完现有答案的补充：可能是我提问的方式有问题，但是，我的老师没有说过宗教对于中国来说是一定缺乏的，从他的部分观点来讲，只是中国现有的价值观很畸形。（我也不想更多的为我的老师辩护，信仰这一个话题，只是老师所讲授的很小很小的一部分）而且我也没有觉得中国现在马上需要一个宗教，也许我上面的问题表达得不明确，我只是想知道，宗教对于一个国家的影响是什么？如果没有宗教信仰，中国和宗教国家有什么差别？在我看来，不可能用宗教来解决中国的问题，但是，宗教始终对于一个国家有或多或少的影响，不管是好是坏。我觉得那些指责我盲从迷信天真的人，没有回答我的问题，但是也很感谢你们的回答，让我从不同的角度思考。</p></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="report-question" class="report zg-right">
+<i class="z-icon-report-o"></i>举报</a>
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>398 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+
+<span class="zg-bull">&bull;</span>
+<a href="#" name="invite" class="meta-item">邀请回答</a>
+
+
+
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+
+
+<div class="zh-answers-title clearfix">
+
+<div id="zh-answers-filter" class="Sorter">
+
+<span class="lbl">默认排序</span>
+<a class="lbl" href="/question/31515263?sort=created">按时间排序</a>
+
+<i class="zg-icon zg-icon-double-arrow"></i>
+</div>
+
+<h3 data-num="1560" id="zh-question-answer-num">1560 个回答</h3>
+</div>
+
+<div id="zh-question-answer-wrap" data-pagesize="10" class="zh-question-answer-wrapper" data-widget="navigable" data-navigable-options="{&quot;items&quot;: &quot;&gt;.zm-item-answer&quot;}" data-init="{&quot;params&quot;: {&quot;url_token&quot;: 31515263, &quot;pagesize&quot;: 10, &quot;offset&quot;: 0}, &quot;nodename&quot;: &quot;QuestionAnswerListV2&quot;}">
+
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemprop="topAnswer"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="38902949"
+data-atoken="108584738"
+data-collapsed="0"
+data-created="1467253274"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/108584738">
+<meta itemprop="answer-id" content="38902949">
+<meta itemprop="answer-url-token" content="108584738">
+<a class="zg-anchor-hidden" name="answer-38902949"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">7011</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/banfoxianren" target="_blank" data-hovercard="p$t$banfoxianren"
+
+><img src="https://pic3.zhimg.com/v2-18283ea0c30d6f8d6d9944bf394b6c86_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$banfoxianren"
+target="_blank" href="/people/banfoxianren"
+>半佛仙人</a></span><span title="我看诸君皆装逼，料诸君看我应如是" class="bio">
+我看诸君皆装逼，料诸君看我应如是
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="7011">
+
+
+
+<span class="voters text"><span class="user-block"><a data-hovercard="p$t$excited-vczh" href="https://www.zhihu.com/people/excited-vczh" target="_blank" class="zg-link author-link" title="vczh"
+>vczh</a></span>&nbsp;<a href="#" class="more text">等&nbsp;<span class="js-voteCount">7011</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="半佛仙人" data-entry-url="/question/31515263/answer/108584738">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+没有宗教信仰和没有信仰是两码事。 另附上某关公庙的对联： 上联：作事奸邪任尔焚香无益 下联：居心正直见吾不拜何妨 这，才是信仰。
+
+<a href="/question/31515263/answer/108584738" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+没有宗教信仰和没有信仰是两码事。<br><br>另附上某关公庙的对联：<br>上联：作事奸邪任尔焚香无益<br>下联：居心正直见吾不拜何妨<br><br>这，才是信仰。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="38902949-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-06-30" target="_blank" href="/question/31515263/answer/108584738">编辑于 2016-06-30</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>251 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="38803643"
+data-atoken="108337481"
+data-collapsed="0"
+data-created="1467118883"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/108337481">
+<meta itemprop="answer-id" content="38803643">
+<meta itemprop="answer-url-token" content="108337481">
+<a class="zg-anchor-hidden" name="answer-38803643"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">21K</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/phoolean" target="_blank" data-hovercard="p$t$phoolean"
+
+><img src="https://pic1.zhimg.com/cb76d101050e914f01deecd7f1472e1c_s.png"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$phoolean"
+target="_blank" href="/people/phoolean"
+>Phoolean</a></span><span title="我的猫跑了，我也想跑" class="bio">
+我的猫跑了，我也想跑
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="21172">
+
+
+
+<span class="voters text"><span class="user-block"><a data-hovercard="p$t$marsliu" href="https://www.zhihu.com/people/marsliu" target="_blank" class="zg-link author-link" title="刘鑫"
+>刘鑫</a>、</span>
+
+<span class="user-block"><a data-hovercard="p$t$windoze" href="https://www.zhihu.com/people/windoze" target="_blank" class="zg-link author-link" title="徐辰"
+>徐辰</a>、</span>
+
+<span class="user-block"><a data-hovercard="p$t$yan-ling-66" href="https://www.zhihu.com/people/yan-ling-66" target="_blank" class="zg-link author-link" title="言凌"
+>言凌</a></span>&nbsp;<a href="#" class="more text">等&nbsp;<span class="js-voteCount">21172</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="Phoolean" data-entry-url="/question/31515263/answer/108337481">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+你的老师说，一个民族总有些东西是不能亵渎的。 天破了，自己炼石来补； 洪水来了，不问先知，自己挖河渠疏通； 疾病流行，不求神迹，自己试药自己治； 在东海淹死了就把东海填平，被太阳暴晒的就把太阳射下来； 谁愿意做拣选的石子就让他去吧，谁愿意做俯…
+
+<a href="/question/31515263/answer/108337481" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+你的老师说，一个民族总有些东西是不能亵渎的。<br>天破了，自己炼石来补；<br>洪水来了，不问先知，自己挖河渠疏通；<br>疾病流行，不求神迹，自己试药自己治；<br>在东海淹死了就把东海填平，被太阳暴晒的就把太阳射下来；<br>谁愿意做拣选的石子就让他去吧，谁愿意做俯伏的羔羊也让他去吧；<br>谁愿意跪天子跪权臣就让他去吧，谁想不问苍生问鬼神也让他去吧；<br>斧头劈开的天地之间，到处都是不愿做奴隶的人。<br>这就是这个民族不可亵渎的东西。<br><br>有人说，你国人不跪神，倒是跪赵老爷。<br>要我说，我国有人跪着赵老爷，也有人跪着裹尸布，还有些站着的。<br>赵老爷三四百年死一茬，裹尸布两千年不腐烂，跪裹尸布的就平白无故的生出了信心，自觉得比跪赵的高了一头不说，竟然看着那些站着的也越发恨了起来，说那些建设者们姓了赵也罢，连那几个旁边鼓掌的都成了跪赵者了。<br>他们用裹尸布包着自酿的酒举过来：“喝吧，喝了就不渴。”酒里浮着道德、良心和信仰。我没有喝这酒，反而有些纳闷：哪里的红酒能浮得起这些沉甸甸的东西？看他们笑得神圣，我也不再拒绝，轻轻抿了一小口，就尝得这浓郁的味道哪里是酒，分明是刚刚抽出来的。<br>赛先生的血。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="38803643-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-06-28" target="_blank" href="/question/31515263/answer/108337481">编辑于 2016-11-14</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1687 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="42393367"
+data-atoken="117271264"
+data-collapsed="0"
+data-created="1471385566"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/117271264">
+<meta itemprop="answer-id" content="42393367">
+<meta itemprop="answer-url-token" content="117271264">
+<a class="zg-anchor-hidden" name="answer-42393367"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">3313</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/wang-rui-en" target="_blank" data-hovercard="p$t$wang-rui-en"
+
+><img src="https://pic4.zhimg.com/v2-824e7bff84b2ebd6b546ae0248589bbb_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$wang-rui-en"
+target="_blank" href="/people/wang-rui-en"
+>王瑞恩</a><span class="icon icon-badge-best_answerer icon-badge" data-tooltip="s$b$优秀回答者"></span></span><span class="badge-summary"><a href="/people/wang-rui-en#hilightbadge" target="_blank">法律话题优秀回答者</a></span>
+
+
+
+<span title="老王力气大无穷 双手举起纸灯笼" class="bio">
+老王力气大无穷 双手举起纸灯笼
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="3313">
+
+
+
+<span class="voters text"><span class="user-block"><a data-hovercard="p$t$marsliu" href="https://www.zhihu.com/people/marsliu" target="_blank" class="zg-link author-link" title="刘鑫"
+>刘鑫</a></span>&nbsp;<a href="#" class="more text">等&nbsp;<span class="js-voteCount">3313</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="王瑞恩" data-entry-url="/question/31515263/answer/117271264">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+<b>我所接触的一些外国人，认为中国人没有“信仰”， </b> <b>而这一误解，基本源自于大多数中国人不信仰宗教。</b> 上周日，早起遛弯，去看看明州圣保罗市著名的圣保罗大教堂， 我说，我不信教，但可不可以让我进去看看大家做弥撒， 果然，就有人问了，“你真的不信教？…
+
+<a href="/question/31515263/answer/117271264" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+<b>我所接触的一些外国人，认为中国人没有“信仰”， </b><br><b>而这一误解，基本源自于大多数中国人不信仰宗教。</b><br><br>上周日，早起遛弯，去看看明州圣保罗市著名的圣保罗大教堂，<br>我说，我不信教，但可不可以让我进去看看大家做弥撒，<br>果然，就有人问了，“你真的不信教？什么都不信吗？！” <br>我早就想好了回答：<br>"我不信宗教，但我有信仰，我也有精神生活“<br>（I am not religious, but I do have faith and a spiritual life.") <br><br>昨天，和房东老太太（就是被我吃光了自己种的菜的那位），说起我去看了教堂，<br>老太太问，那你有没有想着要向上帝靠拢一下下？<br>我说，我为什么需要上帝，<br>信教的人，每周都给自己的神说自己都干了什么，都有什么计划，<br>我每周都给家里打电话，说我的近况，谈谈最近各种稀奇古怪的想法，一有机会就去看家里老人，告诉他们自己一年间有什么收获；<br>信教的人，做了坏事要忏悔，怕神明责罚他，<br>我不用和上帝老儿说，自己心里就有个地方会扎得难受；<br>信教的人，感谢神明赐给他食物，<br>我不谢神仙，我谢谢您在花园子里种了这么多瓜果菜蔬，敞开来让我摘，我谢谢我的朋友让我每天都乐呵，谢谢我的家人无条件支持我做任何事情；<br>我不需要跪下了拜神才能得到精神上的满足，<br>堵在晚高峰的时候，坐长途航班的时候，吃饱了饭出去溜达的时候，我脑子里都在构思文章，想一些小故事，<br>那您说说，我的精神生活不够丰富吗？<br><br>老太太说，你这么说，我很明白，但你这样在美国是会被人议论的，<br>她说，自己的儿子有一次就因为小学的时候说自己不信教，被老师建议看心理医生。<br>也许这个国家的误解就是这么深，你说你不信教，他们就觉得你的精神状态有问题，觉得你是思想危险的野蛮人。<br>我说，我也不是没遇到过这样的误解，对此，我有三种策略：<br>1. 对您这样愿意倾听的，且包容大度的，我会详细说明自己为什么不信教，为什么不信教也可以有信仰，有很丰富的精神生活；<br>2. 对愿意倾听，但依然试图让我信教的一般围观群众，我说我信儒家思想，”从心所欲不逾矩”，意志自决与社会范式并重好伐，天上的璀璨星空与心中的道德律令好伐，个人自由与程序正义的结合好伐。这么一包装，往往把歪国人忽悠的一愣一愣的。<br>3. 对不愿意听，强灌别人三观的，我就说我相信共产主义，前进，不择手段地前进，你丫有这时间和我这个被洗了脑的野蛮人逼逼，你怎么不去穆斯林社区传教呢。<br>以上三招反复用，从未失手。<br>老太太拍手称妙。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="42393367-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-08-17" target="_blank" href="/question/31515263/answer/117271264">编辑于 2016-08-17</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>284 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="38889132"
+data-atoken="108550102"
+data-collapsed="0"
+data-created="1467219310"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/108550102">
+<meta itemprop="answer-id" content="38889132">
+<meta itemprop="answer-url-token" content="108550102">
+<a class="zg-anchor-hidden" name="answer-38889132"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">3223</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/zek-zeng" target="_blank" data-hovercard="p$t$zek-zeng"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$zek-zeng"
+target="_blank" href="/people/zek-zeng"
+>zek zeng</a></span><span title="为尊者讳，为长者续" class="bio">
+为尊者讳，为长者续
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="3223">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">3223</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="zek zeng" data-entry-url="/question/31515263/answer/108550102">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+如果你是一个外国侵略者，来到这片土地上，这个国家有三种军队。 第一种是烧黄纸喝符水喊猪八戒老爷附身刀枪不入的； 第二种是举着某种天体的图形或者某种数学符号，喊着口号要为某个独一无二的神争取荣耀的； 第三种是不仅知道人被杀就会死，而且知道人死…
+
+<a href="/question/31515263/answer/108550102" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+如果你是一个外国侵略者，来到这片土地上，这个国家有三种军队。<br>第一种是烧黄纸喝符水喊猪八戒老爷附身刀枪不入的；<br>第二种是举着某种天体的图形或者某种数学符号，喊着口号要为某个独一无二的神争取荣耀的；<br>第三种是不仅知道人被杀就会死，而且知道人死了以后既没有天堂也没有处女甚至没有白葡萄，但还是会顶着重火力封锁往前冲锋的。<br><br>你最怕哪一种？<br><br>我就是随便举个例子而已。我想说的是，我觉得那些带头鼓吹中国人不信个宗教你国就药丸的人，都不是什么好东西。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="38889132-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/31515263/answer/108550102">发布于 2016-06-30</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>289 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="16703400"
+data-atoken="53245415"
+data-collapsed="0"
+data-created="1435625986"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/53245415">
+<meta itemprop="answer-id" content="16703400">
+<meta itemprop="answer-url-token" content="53245415">
+<a class="zg-anchor-hidden" name="answer-16703400"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1248</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/bai-yu-89-65" target="_blank" data-hovercard="p$t$bai-yu-89-65"
+
+><img src="https://pic3.zhimg.com/d3565d49c80c18a2d4ab3f6d860f37d6_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$bai-yu-89-65"
+target="_blank" href="/people/bai-yu-89-65"
+>白瑜</a></span><span title="快乐的典典" class="bio">
+快乐的典典
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="1248">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1248</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="白瑜" data-entry-url="/question/31515263/answer/53245415">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+文天祥 正气歌 天地有正气，杂然赋流形。下则为河岳，上则为日星。 于人曰浩然，沛乎塞苍冥。皇路当清夷，含和吐明庭。 时穷节乃见，一一垂丹青。在齐太史简，在晋董狐笔。 在秦张良椎，在汉苏武节。为严将军头，为嵇侍中血。 为张睢阳齿，为颜常山舌。或为…
+
+<a href="/question/31515263/answer/53245415" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+文天祥 正气歌<br>天地有正气，杂然赋流形。下则为河岳，上则为日星。<br>于人曰浩然，沛乎塞苍冥。皇路当清夷，含和吐明庭。<br>时穷节乃见，一一垂丹青。在齐太史简，在晋董狐笔。<br>在秦张良椎，在汉苏武节。为严将军头，为嵇侍中血。<br>为张睢阳齿，为颜常山舌。或为辽东帽，清操厉冰雪。<br>或为出师表，鬼神泣壮烈。或为渡江楫，慷慨吞胡羯。<br>或为击贼笏，逆竖头破裂。是气所磅礴，凛烈万古存。<br>当其贯日月，生死安足论。地维赖以立，天柱赖以尊。<br>三纲实系命，道义为之根。嗟予遘阳九，隶也实不力。<br>楚囚缨其冠，传车送穷北。鼎镬甘如饴，求之不可得。<br>阴房阗鬼火，春院闭天黑。牛骥同一皂，鸡栖凤凰食。<br>一朝蒙雾露，分作沟中瘠。如此再寒暑，百疠自辟易。<br>嗟哉沮洳场，为我安乐国。岂有他缪巧，阴阳不能贼。<br>顾此耿耿在，仰视浮云白。悠悠我心悲，苍天曷有极。<br>哲人日已远，典刑在夙昔。风檐展书读，古道照颜色。<br><br>这不算信仰吗。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="16703400-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/31515263/answer/53245415">发布于 2015-06-30</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>139 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="16626507"
+data-atoken="53053846"
+data-collapsed="0"
+data-created="1435485397"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/53053846">
+<meta itemprop="answer-id" content="16626507">
+<meta itemprop="answer-url-token" content="53053846">
+<a class="zg-anchor-hidden" name="answer-16626507"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">2886</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/Andreas-Vladimir" target="_blank" data-hovercard="p$t$Andreas-Vladimir"
+
+><img src="https://pic1.zhimg.com/31feacb7cf92e3d930fa8c084e34e47c_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$Andreas-Vladimir"
+target="_blank" href="/people/Andreas-Vladimir"
+>蛤蜊与狐狸</a></span><span title="相即是空，空即是相；相不吃空，空不挖相，是谓大同" class="bio">
+相即是空，空即是相；相不吃空，空不挖相…
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="2886">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">2886</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="蛤蜊与狐狸" data-entry-url="/question/31515263/answer/53053846">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+一般我听到“人没有宗教信仰很可怕”“无神论的国家很可怕”“不信宗教不懂得畏惧”这种调调的人我都躲着走。 谁说无神论者不懂得“敬畏”之心，你看我这不是挺敬畏神棍的么…… 这种人不知道哪来的一股子悲天悯人的是非劲，坚信中国所有的问题都是因为国人…
+
+<a href="/question/31515263/answer/53053846" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+一般我听到“人没有宗教信仰很可怕”“无神论的国家很可怕”“不信宗教不懂得畏惧”这种调调的人我都躲着走。<br><br>谁说无神论者不懂得“敬畏”之心，你看我这不是挺敬畏神棍的么……<br><br>这种人不知道哪来的一股子悲天悯人的是非劲，坚信中国所有的问题都是因为国人不信神，尤其是没信他信的那个神。要是哪一天中国人都信了神，中国的问题就都解决了，至少是解决了一大半了……<br><br>对于中国这个国家和我们整体的民族来说，主体意识形态是无神论并没有什么特别的意味。这种意识形态并不妨碍我们的现代化进程，也不妨碍我们解决现有的问题。<br><br>缅甸、泰国、菲律宾、马来西亚都是大多数国民虔信的国家，我们有的问题他们一个不少，无神论国家不会出现的问题他们层出不穷。韩国如果再不正视他们的基督教问题，大好局面也早晚会被这玩意给霍霍黄了。印度人的宗教对社会和国民人格的影响已经明显成为其现代化发展的绊脚石，一个劲的扯印度的后腿。<br><br>如果你认真考虑我说的这些情况，你就会发现，宗教根本不是解决社会问题的一个可选答案，宗教并不能使得一个国家变得不可悲，也不能使得人们不亵渎有价值的东西，因为在宗教信徒眼里，最有价值的是他们的神、道、法，在他们看来不是正信的东西，他们也一样毫无“敬畏”之心。<br><br>我就不说啥啥啥是啥啥鸦片之类的长篇大论了，反正教徒们也听不进去。咱们各自信各自的，谁都不干涉谁，特别是别整天净YY想哪天把中国也变成一个宗教国家。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="16626507-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2015-06-28" target="_blank" href="/question/31515263/answer/53053846">编辑于 2015-06-28</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>144 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="2">
+<meta name="disableCopyAvatar" content="https://pic1.zhimg.com/31feacb7cf92e3d930fa8c084e34e47c_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+
+<a href="/copyright/apply?answer=53053846" target="_blank" class="meta-item copyright">申请转载</a>
+
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="38770007"
+data-atoken="108253828"
+data-collapsed="0"
+data-created="1467088593"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/108253828">
+<meta itemprop="answer-id" content="38770007">
+<meta itemprop="answer-url-token" content="108253828">
+<a class="zg-anchor-hidden" name="answer-38770007"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">4312</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/pfdlw" target="_blank" data-hovercard="p$t$pfdlw"
+
+><img src="https://pic2.zhimg.com/v2-936b1cd490689050d9d6a879943c8d8d_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$pfdlw"
+target="_blank" href="/people/pfdlw"
+>伍亦勤</a></span><span title="不唯书，不唯上，只唯真。" class="bio">
+不唯书，不唯上，只唯真。
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="4312">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">4312</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="伍亦勤" data-entry-url="/question/31515263/answer/108253828">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+对中国来说，没有宗教信仰—— 是少数几个领先于欧美的地方之一， 是少数几个让部分欧美人民羡慕的地方之一， 是让我们对这个国家抱有希望的地方之一， 是中华民族的优秀文化基因之一。
+
+<a href="/question/31515263/answer/108253828" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+对中国来说，没有宗教信仰——<br><br>是少数几个领先于欧美的地方之一，<br>是少数几个让部分欧美人民羡慕的地方之一，<br>是让我们对这个国家抱有希望的地方之一，<br>是中华民族的优秀文化基因之一。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="38770007-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/31515263/answer/108253828">发布于 2016-06-28</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>269 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="42415429"
+data-atoken="117326392"
+data-collapsed="0"
+data-created="1471409668"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/117326392">
+<meta itemprop="answer-id" content="42415429">
+<meta itemprop="answer-url-token" content="117326392">
+<a class="zg-anchor-hidden" name="answer-42415429"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">878</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/qingshao23" target="_blank" data-hovercard="p$t$qingshao23"
+
+><img src="https://pic3.zhimg.com/ca157dcfb58852288189e4d839515fc2_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$qingshao23"
+target="_blank" href="/people/qingshao23"
+>青少</a></span><span title="宁为万人敌，不让万人迷。" class="bio">
+宁为万人敌，不让万人迷。
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="878">
+
+
+
+<span class="voters text"><span class="user-block"><a data-hovercard="p$t$excited-vczh" href="https://www.zhihu.com/people/excited-vczh" target="_blank" class="zg-link author-link" title="vczh"
+>vczh</a></span>&nbsp;<a href="#" class="more text">等&nbsp;<span class="js-voteCount">878</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="青少" data-entry-url="/question/31515263/answer/117326392">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+没有任何宗教信仰意味着在国家民族生命受到最严峻的考验时，我们不会得到也不会渴求任何God的保佑，我们只会听到并深信<b>『我们中华民族是有着很强的凝聚力，任何的困难都压不倒我们，中国人民是不可战胜的』。</b> 不管今天我们是9岁还是90岁，要扼住命运的咽喉…
+
+<a href="/question/31515263/answer/117326392" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+没有任何宗教信仰意味着在国家民族生命受到最严峻的考验时，我们不会得到也不会渴求任何God的保佑，我们只会听到并深信<b>『我们中华民族是有着很强的凝聚力，任何的困难都压不倒我们，中国人民是不可战胜的』。</b><br><br>不管今天我们是9岁还是90岁，要扼住命运的咽喉的那双手，只能是我们自己的。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="42415429-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-08-17" target="_blank" href="/question/31515263/answer/117326392">编辑于 2016-08-17</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>77 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="25086743"
+data-atoken="74158671"
+data-collapsed="0"
+data-created="1448594156"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+>
+<link itemprop="url" href="/question/31515263/answer/74158671">
+<meta itemprop="answer-id" content="25086743">
+<meta itemprop="answer-url-token" content="74158671">
+<a class="zg-anchor-hidden" name="answer-25086743"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1775</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/nai-ping-zhan-dou-ji" target="_blank" data-hovercard="p$t$nai-ping-zhan-dou-ji"
+
+><img src="https://pic1.zhimg.com/da8e974dc_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$nai-ping-zhan-dou-ji"
+target="_blank" href="/people/nai-ping-zhan-dou-ji"
+>奶瓶战斗机</a></span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="1775">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1775</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="奶瓶战斗机" data-entry-url="/question/31515263/answer/74158671">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+阳明先生曾言佛教不过“以生死动人”。 这一句用来揭露一切信仰灵魂不灭之宗教都有效。教徒的行善，不是发自内心的真善，而是源自外来的“引导”甚至应该说是“诱导”。哪一种宗教不是以遵从教义便可于未来得福利而吸引人，不是以非我教徒，必下火狱为恐吓…
+
+<a href="/question/31515263/answer/74158671" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+阳明先生曾言佛教不过“以生死动人”。<br><br>这一句用来揭露一切信仰灵魂不灭之宗教都有效。教徒的行善，不是发自内心的真善，而是源自外来的“引导”甚至应该说是“诱导”。哪一种宗教不是以遵从教义便可于未来得福利而吸引人，不是以非我教徒，必下火狱为恐吓的呢？教徒的行善，本质上不过是商人的投资，为的是一本万利的收获“天堂”，教徒的不作恶，也不过是出于对火狱的恐惧，而非对邪恶的厌恶。所以，凡是信奉有不灭之灵魂的宗教之教徒，其道德水平，其实不过与商人等同罢了。<br><br>所以，教徒们常有一个疑问，那就是如果没有上帝，岂不是可以随便作恶了？却不知，正是这个假设，将他们的本性暴露无遗。而那些教徒们就凭着这种没人（没有神）盯着，就要无恶不作的水平的道德，却去鄙视那些不信神明，却能躬行善举的人的道德水平，这真是令人齿冷。<br><br>而在无神论者这里，每个无神论者都知道“人最宝贵的东西是生命,它属于人只有一次”。知道“死去元知万事空”。而在这样的认知之下，仍然能坚持正义，仍然愿意“杀身成仁，舍生取义”，仍然愿意将“我的整个生命和全部精力，都献给世界上最壮丽的事业——为人类的解放而斗争”。“这才是一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人”。教徒们与之相比，就像猴子和人相比一样。
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="25086743-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/31515263/answer/74158671">发布于 2015-11-27</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>257 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="1">
+<meta name="disableCopyAvatar" content="">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">
+作者保留权利
+</a>
+
+
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="zm-item-answer  zm-item-expanded"
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="40287497"
+data-atoken="112030901"
+data-collapsed="0"
+data-created="1468923518"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="0"
+
+>
+<link itemprop="url" href="/question/31515263/answer/112030901">
+<meta itemprop="answer-id" content="40287497">
+<meta itemprop="answer-url-token" content="112030901">
+<a class="zg-anchor-hidden" name="answer-40287497"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1217</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/zhang-jia-wei" target="_blank" data-hovercard="p$t$zhang-jia-wei"
+
+><img src="https://pic2.zhimg.com/424c70919_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+<span class="summary-wrapper">
+<span class="author-link-line">
+
+<a class="author-link"
+data-hovercard="p$t$zhang-jia-wei"
+target="_blank" href="/people/zhang-jia-wei"
+>张佳玮</a><span class="icon icon-badge-best_answerer icon-badge" data-tooltip="s$b$优秀回答者"></span></span><span class="badge-summary"><a href="/people/zhang-jia-wei#hilightbadge" target="_blank">文学话题优秀回答者</a></span>
+
+
+
+<span title="公众号：张佳玮写字的地方" class="bio">
+公众号：张佳玮写字的地方
+</span>
+</span>
+</div>
+<div class="zm-item-vote-info" data-votecount="1217">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1217</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="4805386" data-action="/answer/content" data-author-name="张佳玮" data-entry-url="/question/31515263/answer/112030901">
+
+
+<div class="zh-summary summary clearfix" style="display:none;">
+
+谢邀。 中国历史上，一直有各色宗教信仰啊……信佛的，信道的，跟着洪秀全起事的。解放之后侯宝林大师们不还讲了《一贯道》，讽刺一贯道教吗？——虽然道教未必认，但那如果追根溯源，也能跟道教勾上关系啊……就像洪秀全那套七拐八弯也跟基督教挂钩似的。 …
+
+<a href="/question/31515263/answer/112030901" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+<div class="zm-editable-content clearfix">
+谢邀。<br><br>中国历史上，一直有各色宗教信仰啊……信佛的，信道的，跟着洪秀全起事的。解放之后侯宝林大师们不还讲了《一贯道》，讽刺一贯道教吗？——虽然道教未必认，但那如果追根溯源，也能跟道教勾上关系啊……就像洪秀全那套七拐八弯也跟基督教挂钩似的。<br><br>只是，中国从没形成过长期政教合一的局面，没那么多原教旨主义者而已。<br>更确切地说：<br><b>中国人有信教的，也信得比较松散，比较有选择性，没什么狂信徒。</b><br><b>我觉得，这算好事。</b><br><br><br><br>宗教信仰的元素：<b>教义、教仪、教团</b>。<br><br><b>教义</b>，比如佛教跟你说要断尽生死得脱烦恼，道教跟你说要清虚无为，这叫教义。精神上的抚慰。<br>中国许多人都接受教义，尤其是民间，清朝普通老百姓都知道要拜观音、要求来世、要得好报，要行善，不能杀生。<br><br><b>教仪</b>就比较麻烦了。祈祷、忏悔、修行，乃至于各类行为规范，包括戒荤酒、不许吃这不许吃那。<br>这个，中国人秉持得就少一些。因为如上所述，原教旨主义者比较少嘛。<br><br><b>教团</b>，就是成建制的了，可以和政治力量相对抗了。<br>这个，中国人基本没有。所以中国人永远不会搞十字军东征、大战异教徒这类事。<br><br><br>宗教最可怕的，是教仪和教团走了极端后，强烈的<b>排他性。</b><br>如上所述，中国人的宗教信仰，很松散。教仪和教团，即涉及到政治和行为规范的部分，很少。<br>许多人会吐槽说，中国人不信宗教！——其实他们也是针对中国人不严格搞仪式化宗教吧。<br>但我觉得，这真也不是坏事。<br><br><br>教义是宗教的精神基础。大多数人信教，是因为教义听着很动人，可以解精神困惑。<br>教仪和教团，是巩固信仰团结教徒用的。当然也有些邪教，拿来蛊惑人心反人类，比如奥姆真理教之类。<br>所以我觉得，中国人普遍汲取教义，而忽视教仪和教团，虽然会被虔诚者认为没有信仰，但从长期来看，算一件好事。<br><br>中国人历史上，从各色教义里汲取了一些好东西，补益精神，度过一些精神危机。<br>而因为中国人不太容易被教仪或教团弄去，搞成大忽悠，所以中国从未变成政教合一的国家。<br>所以中国人，尤其是老人家，相对容易迷信（误解了教义），但相对不容易被邪教煽动。这方面，中国人信教信得很精明，狂信徒比其他国家少很多，长远来看，是好事，也比较容易世俗化。中国人没被极端教仪和极端教团束缚，所以没什么迈不过去的精神坎儿。<br><br><br>当然西方也有种说法，认为中国历史上，有两种主流宗教。老百姓在南北朝后，普遍信佛，信因果，信轮回；士大夫普遍信儒，讲究修身齐家治国平天下，儒家当然未必算宗教，但在与政治力量对抗时——士大夫某种情况下是可以靠儒家学说获得道德优势的，明朝某些时段尤其明显——很有力。<br>但大体上，如上所述，<b>中国人有信教的，也比较世俗化。</b><br><b>我觉得这挺好的。</b><br>清教在美国，某种程度上，也算促进了世俗化进程。<br><br>反过来：<br><b>教仪和教团越繁琐越庞杂越排他的宗教，平时看着越虔诚热烈，就越容易出极端反人类的家伙。要世俗化起来，也比较麻烦。</b><br><b>这方面，中国很幸运了。没一个政权，没哪群士大夫，将自己的权柄押注在宗教上。</b>
+</div>
+
+
+</div>
+<a class="zg-anchor-hidden ac" name="40287497-comment"></a>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a itemprop="url" class="answer-date-link meta-item" data-tooltip="s$t$发布于 2016-07-19" target="_blank" href="/question/31515263/answer/112030901">编辑于 2016-07-19</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>158 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+
+<meta name="copyrightStatus" content="0">
+<meta name="disableCopyAvatar" content="https://pic2.zhimg.com/424c70919_s.jpg">
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+
+</div>
+</div>
+</div>
+
+
+</div>
+
+<div id="zh-question-collapsed-link" class="zu-question-collap-title" style="display:" >
+<a href="javascript:;" name="expand" class="zg-link-gray" id="zh-question-collapsed-switcher">
+<span id="zh-question-collapsed-num">33</span> 个回答被折叠
+</a>
+（<a target="_blank" href="/question/20120168" class="zg-link-gray">为什么？</a>）
+</div>
+<div id="zh-question-collapsed-wrap" class="zh-question-answer-wrapper" style="display:none"></div>
+<a name="draft"></a>
+<div id="zh-question-answer-form-wrap" class="zh-question-answer-form-wrap">
+<div class="zm-editable-tip"></div>
+<div class="zm-editable-content"></div>
+</div>
+<!-- 版权演示 -->
+
+<script type="text/x-template" id="copyright-demo-template">
+<article>
+
+<section>
+<p class="copyright-demo-title"> 这是你的回答正文 </p>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section>
+<p class="copyright-demo-title"> 当其他人想复制你的一段回答 </p>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region1">
+<span class="copyright-ico-indicator" id="copyright-demo-indicator"></span>
+</div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region2"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region3"></div>
+<div class="copyright-demo-region frame2-region" id="copyright-demo-region4"></div>
+<div class="copyright-demo-region"></div>
+</section>
+
+<section id="copyright-demo-frame3">
+<p class="copyright-demo-title copyright-demo-effect"> 复制将受限，同时会弹出提醒 </p>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region copyright-demo-region-selected"></div>
+<div class="copyright-demo-region"></div>
+<span class="copyright-ico-pointer copyright-demo-pointer"></span>
+</section>
+</article>
+</script>
+
+
+<script type="text/template" class="oauth-success-template--wechat">
+<div class="oauth-success oauth-success--wechat">
+<img src="/static/img/zhihu_wechat.png" class="oauth-success-image">
+<h2 class="oauth-success-title">成功绑定微信帐号</h2>
+<p class="oauth-success-tip">下次登录知乎可直接使用「微信快捷登录」</p>
+</div>
+</script>
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar" data-za-module="RightSideBar">
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="4805386">关注问题</button>
+
+<div class="zg-btn-white" id="zh-question-operation-menu"
+>
+<i class="zg-icon-dropdown-menu zg-icon"></i><b class="hide-text">设置</b>
+</div>
+
+<div class="zh-question-followers-sidebar">
+<div class="zg-gray-normal">
+
+<a href="/question/31515263/followers"><strong>10409</strong></a>
+人关注该问题
+
+</div>
+
+<div class="list zu-small-avatar-list zg-clear">
+
+<a title="lionees pace"
+data-hovercard="p$t$lionees-pace"
+class="zm-item-link-avatar"
+href="/people/lionees-pace">
+<img src="https://pic4.zhimg.com/f8971fdadba364ceb924415183c60e87_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="vczh"
+data-hovercard="p$t$excited-vczh"
+class="zm-item-link-avatar"
+href="/people/excited-vczh">
+<img src="https://pic1.zhimg.com/3a6c25ac3864540e80cdef9bc2a73900_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="徐辰"
+data-hovercard="p$t$windoze"
+class="zm-item-link-avatar"
+href="/people/windoze">
+<img src="https://pic2.zhimg.com/b7b47a8e1_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="潜客老四"
+data-hovercard="p$t$gao-tao-40"
+class="zm-item-link-avatar"
+href="/people/gao-tao-40">
+<img src="https://pic4.zhimg.com/58e64dd891ae393d16dcc55f2261a97f_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="上善下流"
+data-hovercard="p$t$shang-shan-xia-liu"
+class="zm-item-link-avatar"
+href="/people/shang-shan-xia-liu">
+<img src="https://pic1.zhimg.com/da8e974dc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="西瓜吃西瓜"
+data-hovercard="p$t$xi-gua-chi-xi-gua-34"
+class="zm-item-link-avatar"
+href="/people/xi-gua-chi-xi-gua-34">
+<img src="https://pic3.zhimg.com/bfa245a5ded520891ff32518bd8ac536_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="木水"
+data-hovercard="p$t$mu-shui-44-30"
+class="zm-item-link-avatar"
+href="/people/mu-shui-44-30">
+<img src="https://pic3.zhimg.com/42e1fc60e7cd251d804cf1a1072581e6_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="焦陆勇"
+data-hovercard="p$t$jiao-lu-yong"
+class="zm-item-link-avatar"
+href="/people/jiao-lu-yong">
+<img src="https://pic2.zhimg.com/8188bd9fa298bfa2d38c81f59919caa1_s.png" class="zm-item-img-avatar">
+</a>
+
+<a title="纯洁"
+data-hovercard="p$t$chunjie520"
+class="zm-item-link-avatar"
+href="/people/chunjie520">
+<img src="https://pic4.zhimg.com/74c9124d88afc8b3e7d52cf06cb0114f_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="王不强"
+data-hovercard="p$t$wang-qiang-28-68"
+class="zm-item-link-avatar"
+href="/people/wang-qiang-28-68">
+<img src="https://pic2.zhimg.com/13a91d847a7e47aa98f63e3e894fc351_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="黑鹰"
+data-hovercard="p$t$xiaotouming-ahaha"
+class="zm-item-link-avatar"
+href="/people/xiaotouming-ahaha">
+<img src="https://pic1.zhimg.com/da8e974dc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="野风"
+data-hovercard="p$t$ye-feng-55-20"
+class="zm-item-link-avatar"
+href="/people/ye-feng-55-20">
+<img src="https://pic1.zhimg.com/2431cf6c6737c339c88da857dbf5b8e4_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="荒草丛生"
+data-hovercard="p$t$huang-gai-ming"
+class="zm-item-link-avatar"
+href="/people/huang-gai-ming">
+<img src="https://pic3.zhimg.com/0b45cf546500bcdcb05d284ee387c9a6_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="欧米迦"
+data-hovercard="p$t$ou-mi-jia-59-19"
+class="zm-item-link-avatar"
+href="/people/ou-mi-jia-59-19">
+<img src="https://pic3.zhimg.com/6c63c05c7b40fff06cdb76dabab99dca_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="张鑫"
+data-hovercard="p$t$zhang-xin-23-61"
+class="zm-item-link-avatar"
+href="/people/zhang-xin-23-61">
+<img src="https://pic2.zhimg.com/5c50599b3719390981851b5b46184ac9_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="臭咬"
+data-hovercard="p$t$song-yu-wei-27"
+class="zm-item-link-avatar"
+href="/people/song-yu-wei-27">
+<img src="https://pic2.zhimg.com/862bab541d862b14a62afad203367729_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="CCHAO92"
+data-hovercard="p$t$cchao92"
+class="zm-item-link-avatar"
+href="/people/cchao92">
+<img src="https://pic1.zhimg.com/da8e974dc_s.jpg" class="zm-item-img-avatar">
+</a>
+
+<a title="张生"
+data-hovercard="p$t$zhangsheng0220"
+class="zm-item-link-avatar"
+href="/people/zhangsheng0220">
+<img src="https://pic3.zhimg.com/a806a9e530f80daba5559a9e741e511e_s.jpg" class="zm-item-img-avatar">
+</a>
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div class="shameimaru-placeholder" data-loc="question_up" data-params='{&quot;question_token&quot;: 31515263}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix" data-za-module="RelatedQuestions">
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/27402650" data-id="3143956" data-za-element-name="Title">
+比较宗教学是一门怎样的学问？
+</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="305" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/19619492" data-id="27715" data-za-element-name="Title">
+在科学盛行的今天，凭借什么来相信基督教呢？
+</a> <span class="num">156 个回答</span><meta itemprop="followerCount" content="714" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/24315636" data-id="1908064" data-za-element-name="Title">
+怎样才能把基督徒辩倒？
+</a> <span class="num">529 个回答</span><meta itemprop="followerCount" content="5640" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/27153093" data-id="3044143" data-za-element-name="Title">
+宗教还会延续吗？
+</a> <span class="num">73 个回答</span><meta itemprop="followerCount" content="617" />
+</li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question">
+<a class="question_link" href="/question/22474581" data-id="1170645" data-za-element-name="Title">
+科学技术这么发达了，为什么还是有人信教？
+</a> <span class="num">676 个回答</span><meta itemprop="followerCount" content="4711" />
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>问题状态</h3>
+<div class="zg-gray-normal">
+最近活动于 <span class="time">19:33</span>
+<span class="zg-bull">&bull;</span>
+<a href="/question/31515263/log">查看问题日志</a>
+</div>
+<div class="zg-gray-normal">
+被浏览 <strong>974129</strong> 次，相关话题关注者 <strong>264656</strong> 人
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-loc="question_down" data-params='{&quot;question_token&quot;: 31515263}'></div>
+
+</div>
+
+
+</div>
+
+
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/question/19581624" target="_blank">知乎指南</a></li>
+<li><a href="javascript:;" id="js-feedback-button">建议反馈</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/jubao" target="_blank">举报投诉</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{"exclusive-popover":{},"section":{},"editor":[]}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["\u8427\u4e95\u964c","xiao-jing-mo","https:\/\/pic2.zhimg.com\/33dcd7dd3e63f62f8575b5e5f77e1201_s.png","fd7c571a0ada1a72e42e8d7992c4a780","\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u70bc\u74dc\u7814\u7a76\u6240   \u6280\u672f\u793e\u533a http:\/\/cocode.cc",0,0,true,"858969036@qq.com","http:\/\/mail.qq.com",0,false,true,false,"28878718369792",false,false,false,true,null]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null,false]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1359914119000,"now":1483190344000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"fd7c571a0ada1a72e42e8d7992c4a780"}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Copyright":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Copyright.452d4bea.js","PayUIApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/PayUIApp.d68065d5.js","CouponApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CouponApp.7c781d5f.js","PaymentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/PaymentApp.4cbd0116.js","Community":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.bd790496.js","Report":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.e5dd753f.js","OrgOpHelp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/OrgOpHelp.15ae4a63.js","common":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.a9264ff0.js","BalanceApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/BalanceApp.766d3812.js","AnswerWarrant":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/AnswerWarrant.da21b685.js","CommentApp":"https:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.3a9d80cd.js"}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","editPermission":true,"qid":4805386,"askAboutMember":0,"isEditLocked":false,"detailEditReasonRequired":true,"isAnon":0,"showInvitePanel":false,"isOrg":false,"isLocked":0,"urlToken":31515263}</script>
+<script type="text/json" class="json-inline" data-name="current_question_owner">false</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+<script type="text/json" class="json-inline" data-name="my_answer">{}</script>
+<script type="text/json" class="json-inline" data-name="current_question_bio">{"selected_bio":"headline","type":"HEADLINE","value":"\u5fae\u4fe1\u516c\u4f17\u53f7\uff1a\u70bc\u74dc\u7814\u7a76\u6240   \u6280\u672f\u793e\u533a http:\/\/cocode.cc"}</script>
+
+<script type="text/json" class="json-inline" data-name="redirect_to">""</script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/vendor.cb14a042.js"></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/base.bbd2f231.js"></script>
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/common.70b408e7.js"></script>
+
+
+<script src="https://static.zhihu.com/static/revved/-/js/closure/richtexteditor.6b4c43d2.js" async></script>
+<script src="https://static.zhihu.com/static/revved/-/js/closure/page-main.05398a7a.js"></script>
+<meta name="entry" content="ZH.entrySQ" data-module-id="page-main">
+
+<script type="text/zscript" znonce="cc394d2bba2c485abff8de1842523626"></script>
+
+<input type="hidden" name="_xsrf" value="3aab1ba02fd3d20b00c6feb9f3e1a5c6"/>
+</body>
+</html>

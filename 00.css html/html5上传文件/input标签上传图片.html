@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="file">
+    <div style="width: 100px; height: 100px;"></div>
+    <script>
+        const input = document.querySelector('input');
+        var foo = document.querySelector('div');
+
+        input.addEventListener('change', function(e){
+            const image = document.createElement('img');
+            image.src = URL.createObjectURL(e.target.files[0]);
+            image.style.width = '100%';
+            foo.appendChild(image)
+        });
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>轮播图</title>
+
+    <style>
+        .img-window{
+            border: 10px solid whitesmoke;
+            width: 500px;
+            height: 280px;
+            overflow: hidden;
+            margin: 0 auto;
+        }
+
+        .img-wrapper{
+            position: relative;
+        }
+
+        .img-wrapper > img{
+            width: 100%;
+            transition: all 0.3s;
+            position: absolute;
+            top: 0;
+        }
+
+        .img-wrapper > img.current{
+            left: 0;
+            transform: translateX(0);
+            z-index: 1;
+        }
+
+        .img-wrapper > img.leave{
+            left: 0;
+            transform: translateX(-100%);
+            z-index: 1;
+        }
+
+        .img-wrapper > img.enter{
+            left: 0;
+            transform: translateX(100%);
+        }
+
+        #buttons{
+            text-align: center;
+        }
+
+        .silk{
+            color:cornsilk;
+        }
+    </style>
+
+
+</head>
+<body>
+    <div class="img-window"> 
+        <div class="img-wrapper">
+            <img width="500" src="http://img5.imgtn.bdimg.com/it/u=2403611520,809506871&fm=26&gp=0.jpg" alt="">
+            <img width="500" src="http://img5.imgtn.bdimg.com/it/u=3205115790,2631720219&fm=26&gp=0.jpg" alt="">
+            <img width="500" src="http://img5.imgtn.bdimg.com/it/u=328917708,4158957351&fm=26&gp=0.jpg" alt="">
+            <img width="500" src="http://img2.imgtn.bdimg.com/it/u=2174105867,4066103107&fm=11&gp=0.jpg" alt="">
+        </div>  
+    </div>
+    
+    <div id='buttons'>
+        <button>1</button>
+        <button>2</button>
+        <button>3</button>
+        <button>4</button>
+    </div>
+
+    <script src="jquery.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

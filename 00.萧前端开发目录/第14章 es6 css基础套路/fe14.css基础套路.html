@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>fe 14</title>
+        <style>
+            div {
+                outline: 1px dashed red;
+            }
+            .gua-holder {
+                display: inline-block;
+                width: 100px;
+                height: 50px;
+                background: lightblue;
+            }
+            .gua-position {
+                display: inline-block;
+                height: 600px;
+            }
+            .gua-static {
+                position: static;
+            }
+            .gua-relative {
+                position: relative;
+            }
+            .gua-absolute {
+                position: absolute;
+            }
+            .gua-fixed {
+                position: fixed;
+                top: 0;
+                height: 100px;
+                background: yellow;
+            }
+        </style>
+    </head>
+    <body>
+        <!--
+        display 主要有 3 个值
+            block 独占一行
+            inline 和别人挤成一行, 并且不能设置盒模型
+            inline-block 和别人挤在一行, 但是可以设置盒模型
+        -->
+        <!--
+        <div class="gua-block">
+            block
+        </div>
+        <button type="button">add</button>
+        <span>Gua</span>
+        <input type="text"value="">
+        <button type="button">delete</button>
+        <div class="gua-inline">
+            inline
+        </div>
+        -->
+
+        <div class="gua-holder">
+        </div>
+        
+        <div class="gua-position">
+            <div class="gua-static">
+                static
+            </div>
+            <div class="gua-relative">
+                relative
+            </div>
+            <div class="gua-absolute">
+                absolute
+            </div>
+            <div class="gua-fixed">
+                fixed
+            </div>
+            <div class="gua-footer">
+                footer
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>data-* 例子大全</title>
+    </head>
+    <body>
+        <h1>自定义属性</h1>
+        <div class=todo-cell data-id=1>
+            todo 第一个
+            <div>
+                <div>
+                    <div>
+                        <button class=gua-button>更新</button>
+                        <button class=gua-button-delete>删除</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=todo-cell data-id=2>
+            吃瓜
+            <div>
+                <button class=gua-button>更新</button>
+                <button class=gua-button-delete>删除</button>
+            </div>
+        </div>
+        <script>
+            var body = document.querySelector('body')
+            body.addEventListener('click', function(event){
+                var target = event.target
+                if(target.classList.contains('gua-button')) {
+                    var dom = target.closest('.todo-cell')
+                    var id = dom.dataset.id
+                    console.log('click 更新', id)
+                }
+                if(target.classList.contains('gua-button-delete')) {
+                    var dom = target.closest('.todo-cell')
+                    var id = dom.dataset.id
+                    console.log('click 删除', id)
+                }
+            })
+        </script>
+    </body>
+</html>

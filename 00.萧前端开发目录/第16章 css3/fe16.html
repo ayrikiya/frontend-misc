@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>fe 16</title>
+        <style>
+            .b + .b {
+                /*background: red;*/
+                border-top: 1px solid black;
+            }
+            .c {
+                transform: translate(20px, 40px);
+            }
+            wujcxy::after {
+                content: '★';
+                font-size: 32px;
+                text-shadow: 1px 1px black;
+            }
+            .orange {
+                color: #FF9800;
+            }
+            .gray {
+                color: lightgray;
+            }
+        </style>
+        <style>
+            /* transition 动画 */
+            .gua-cube {
+                width: 100px;
+                height: 200px;
+                background: red;
+            }
+            .gua-cube:hover {
+                width: 200px;
+                height: 100px;
+                background: blue;
+                transform: scale(1.2, 2);
+            }
+            .gua-cube {
+                transition: 1s;
+            }
+
+            /* animation 动画 */
+            .gua-animation div {
+                background: lightblue;
+                margin: 10px 10px;
+            }
+
+            /*
+            定义一个动画
+            改变背景色
+            */
+            @keyframes changecolor {
+                0% {
+                    background: lightblue;
+                }
+                100% {
+                    background: black;
+                }
+            }
+            @keyframes vr {
+                0% {
+                    transform: rotate(0deg);
+                }
+                50% {
+                    transform: rotate(230deg);
+                }
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+            /* 播放动画 1s 完成， 动画名是 changecolor */
+            .gua1:hover {
+                animation: 1s changecolor;
+            }
+            /* 利用 play-state 属性实现动画暂停 */
+            .gua2 {
+                animation: 1s vr infinite;
+                animation-timing-function: linear;
+                animation-play-state: paused;
+            }
+            .gua2:hover {
+                animation-play-state: running;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="b">
+            a
+        </div>
+        <div class="c">
+            c
+        </div>
+        <div class="b">
+            <wujcxy class="orange"></wujcxy>
+            <wujcxy class="orange"></wujcxy>
+            <wujcxy class="orange"></wujcxy>
+            <wujcxy class="gray"></wujcxy>
+            <wujcxy class="gray"></wujcxy>
+        </div>
+        <!-- transition 动画 -->
+        <div class="gua-transition">
+            <div class="gua-cube">
+
+            </div>
+        </div>
+        <div class="gua-animation">
+            <div class="gua1">1</div>
+            <div class="gua2">2</div>
+            <div class="gua3">3</div>
+        </div>
+    </body>
+</html>

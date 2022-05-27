@@ -1,0 +1,11 @@
+.todo-div {
+    border: 1px solid lightblue;
+}
+
+input {
+    border: 1px solid black;
+}
+
+button {
+    background: lightblue;
+}

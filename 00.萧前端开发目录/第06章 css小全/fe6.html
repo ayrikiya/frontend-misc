@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>fe6 css test</title>
+        <link rel="stylesheet" href="fe6.css">
+        <style>
+            h1 {
+                background: blue !important;
+            }
+            .green {
+                background: green;
+                /*color: white;*/
+            }
+            h1 {
+                background: yellow !important;
+                color: red;
+            }
+            #id-button-test {
+                background: lightblue;
+            }
+            .square {
+                color: black;
+                position: relative;
+                top: -12px;
+            }
+            .close {
+                position: absolute;
+                top: 0px;
+                right: 0px;
+            }
+            .fixed {
+                background: black;
+                color: white;
+                position: fixed;
+                top: 0px;
+                left: 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style='background:red;'>内联(inline style attribute)</h1>
+        <h1>head 内的 style 标签内的 css</h1>
+        <h1 class="green">E = MC<dududu class="square">2</dududu> 质能公式</h1>
+        <h2 class="green">
+            class 选择器
+            <button class="close">X</button>
+            <button class="fixed">fixed按钮</button>
+        </h2>
+        <button class=test-button id="id-button-test">按钮 1</button>
+        <button class=test-button>按钮 2</button>
+        <div class="green">
+            <a href="#">超级链接</a>
+        </div>
+        <img src="doge.jpg" alt="" />
+        <div class="margin-test">
+            111111111111
+        </div>
+        <div class="margin-test">
+            22222222222222
+        </div>
+        <div class="yiiu">
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+            嘟嘟嘟嘟嘟嘟
+        </div>
+    </body>
+</html>
