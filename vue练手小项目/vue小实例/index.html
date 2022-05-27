@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    .active{
+      background: #a10;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="app">
+    <div>
+      <input type="text" v-model="name">
+      <span v-show="name">你的名字是：{{name}}</span>
+    </div>
+    <div>
+      <input type="text" v-model="age">
+      <span v-show="age">你的年龄是：{{age}}</span>
+    </div>
+    <div>
+      <input type="text" v-model="sex">
+      <span v-show="sex">你的性别是：{{sex}}</span>
+    </div>
+
+  </div>
+  <div id="app1">
+    <ul>
+      <li v-for="food in foodList">{{food.name}}: ￥{{food.price}}</li>
+    </ul>
+  </div>
+
+  <div id="app2">
+    <a :class="{active: isActive}" v-bind:href="url">点我</a>
+  </div>
+  <br>
+
+  <div id="app3">
+    <button v-on="{mouseenter: onEnter, mouseleave: onOut}" v-on:click="onClick">点我</button>
+    <br>
+    <form class="" action="index.html" method="post" v-on:submit="onSubmit($event)" v-on:keyup.enter="onEnterkey">
+      <input type="text" name="" value="">
+      <button type="submit" name="button">提交</button>
+    </form>
+  </div>
+  <br>
+
+  <div id="app4">
+    <label>
+      男
+      <input type="radio" v-model="sex" value="male">
+    </label>
+    <label>
+      女
+      <input type="radio" v-model="sex" value="female">
+    </label>
+    <br>
+    {{sex}}
+    <br>
+    <label>
+      男
+      <input type="checkbox" v-model="checksex" value="male">
+    </label>
+    <label>
+      女
+      <input type="checkbox" v-model="checksex" value="female">
+    </label>
+    <br>
+    {{checksex}}
+    <br>
+    <textarea v-model="article" rows="8" cols="30"></textarea>
+    <br>
+    {{article}}
+    <br>
+    <div class="">你来自哪里</div>
+    <select class="" v-model="from">
+      <option value="1">黑风寨</option>
+      <option value="2">狮驼岭</option>
+    </select> {{from}}
+  </div>
+  <br>
+
+  <div id="app5">
+    <div v-if="role == 'admin'">
+      管理员你好
+    </div>
+    <div v-else-if="role == 'hr'">
+      简历页表
+    </div>
+    <div v-else>
+      您没有权限访问此页面
+    </div>
+  </div>
+  <br>
+
+  <div id="app6">
+    <table>
+      <thead>
+        <th>学科</th>
+        <th>分数</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>数学</td>
+          <td><input type="text" v-model.number="math"></td>
+        </tr>
+        <tr>
+          <td>物理</td>
+          <td><input type="text" v-model.number="physics"></td>
+        </tr>
+        <tr>
+          <td>英语</td>
+          <td><input type="text" v-model.number="english"></td>
+        </tr>
+        <tr>
+          <td>总分</td>
+          <td>{{sum}}</td>
+        </tr>
+        <tr>
+          <td>平均分</td>
+          <td>{{average}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <br>
+
+  <div id="seg1">
+    <alert></alert>
+    <like></like>
+    <alert msg="我是传入的信息"></alert>
+    <balance></balance>
+  </div>
+  <br>
+
+  <div id="seg3">
+    <user username="whh"></user>
+  </div>
+  <br>
+
+  <div id="seg2">
+    <show></show>
+    <balance></balance>
+  </div>
+  <br>
+
+  <div id="app8">
+    <huahua></huahua>
+    <shuandan></shuandan>
+  </div>
+  <br>
+
+  <div id="app9">
+    <input v-model="price">
+    {{price | currency('USD')}}
+  </div>
+  <br>
+
+
+  <script src="vue.js"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>

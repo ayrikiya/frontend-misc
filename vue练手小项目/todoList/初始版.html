@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title></title>
+</head>
+<body>
+  <div id="app">
+    <input type="text" v-model="inputValue" />
+    <button v-on:click="handleSubmit">提交</button>
+    <ul>
+        <li v-for="item in todoList">{{item}}</li>
+    </ul>
+  </div>
+  <script src="https://cdn.bootcss.com/vue/2.5.13/vue.min.js"></script>
+  <script>
+        var app = new Vue({
+            el: '#app',
+            data: {
+                inputValue: '',
+                todoList:['去上课', '去吃饭']
+            },
+
+            methods: {
+                handleSubmit: function(){
+                    this.todoList.push(this.message);
+                    this.inputValue = '';
+                }
+            }
+        })
+  </script>
+</body>
+</html>
